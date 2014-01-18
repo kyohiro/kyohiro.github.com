@@ -1,4 +1,4 @@
-kyohiro.github.com
+My Github home page
 ==================
 
-My Github Page
+http://kyohiro.github.io/
